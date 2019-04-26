@@ -1,0 +1,11 @@
+*~
+target/
+mongodb/
+hello.*
+log*
+*.zip
+/.idea/
+lib_managed/
+src_managed/
+test-output/
+*.iml
