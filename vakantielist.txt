@@ -4,7 +4,7 @@ nog te doen
   touw
   verlichting in tent
   waterzak
-  
+  hangkast
 
 tent
   grondzeil
@@ -73,6 +73,7 @@ keuken
   Staafmixer
   Nootjes/chips
   Bakjes
+  hangmat
 
 vermaak
   Boeken
