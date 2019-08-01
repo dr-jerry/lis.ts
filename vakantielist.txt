@@ -26,6 +26,9 @@ tent
 
 keuken
   bbq
+  melkopschuimer
+  snijplank
+  opscheplepels
   briketten
   kaasschaaf
   pannen + waterkoker
@@ -155,6 +158,13 @@ Kleding
   sokken
   Lange broeken.
 
+Laatste dingen:
+  planten watergeven
+  afvalbak.
+  toilettas.
+  lichten controleren
+  bolletjes/boterhammen uit koelkast.
+  
 	
 	
 	
