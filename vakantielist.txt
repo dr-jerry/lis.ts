@@ -1,44 +1,43 @@
 nog te doen
   pannen
-  grondzeil
+  grondzeil onder slaap cabine (1.5 x 2) 
   touw
-  verlichting in tent
-  waterzak
-  hangkast
 
 tent
   grondzeil
   dekens
   electrische
   pomp	handpomp
-  luifelstokken
-  stoelen
-  tafel
+  V luifelstokken
+  V stoelen
+  V tafel
   citronella kaarsen
   theelichtjes
   wasknijpers
-  touw
+  V touw
   hamers
   gasfles
-  verlengsnoer
+  V verlengsnoer
   slaapzakken/luchtbed
   Lampen
+  dweil (flappen reinigen)
 
 keuken
-  bbq
+  onderzetters
+  V bbq
   melkopschuimer
   snijplank
-  opscheplepels
+  V opscheplepels
   briketten
   kaasschaaf
-  pannen + waterkoker
+  V pannen + waterkoker
   koelbox
   pannenhouder.
-  borden
-  bekers
-  bestek
-  blikopener
-  flesopener
+  V borden
+  V bekers
+  V bestek
+  V blikopener
+  V flesopener
   garder
   pollepel
   zonnebloemolie
@@ -47,7 +46,7 @@ keuken
   vergiet
   afwasborstel
   afwasmiddel
-  afwasteil
+  V afwasteil
   3 * theedoeken
   2 * vaatdoek
   2* schuurspons
@@ -59,6 +58,7 @@ keuken
   thee
   pastagroenten
   suiker
+  koffie melk cups.
   kruiden
   koffiefilters
   thermosflessen
@@ -103,7 +103,7 @@ gereedschap
   tang
   ijzerdraad
   steeksleutel
-  waterpas
+  V waterpas
   
 verzorging
   zonnebrand
@@ -161,12 +161,8 @@ Kleding
 
 Laatste dingen:
   planten watergeven
-  afvalbak.
+  Geld poets.
+  afvalbak legen.
   toilettas.
   lichten controleren
   bolletjes/boterhammen uit koelkast.
-  
-	
-	
-	
-
