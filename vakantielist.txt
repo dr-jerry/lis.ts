@@ -1,8 +1,3 @@
-nog te doen
-  pannen
-  grondzeil onder slaap cabine (1.5 x 2) 
-  touw
-
 tent
   grondzeil
   dekens
@@ -21,6 +16,9 @@ tent
   slaapzakken/luchtbed
   Lampen
   dweil (flappen reinigen)
+  (hoes)lakens.
+  dekbed.
+  kussens
 
 keuken
   onderzetters
@@ -129,7 +127,9 @@ verzorging
   Sinaspril
 
 
-Onderweg
+Onderweg (auto)
+  zonnebrand
+  wc papier.
   wegenkaarten	
   opladers
   paspoorten
