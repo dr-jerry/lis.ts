@@ -4,6 +4,7 @@ nog te doen
   touw
 
 tent
+  helling
   grondzeil
   dekens
   electrische
@@ -24,6 +25,7 @@ tent
 
 keuken
   onderzetters
+  artisjokke mesje
   V bbq
   melkopschuimer
   snijplank
