@@ -1,60 +1,110 @@
+tent
+  dekens
+  gasfles
+  slaapzakken/luchtbed
+  Lampen
+  dweil (flappen reinigen)
+  (hoes)lakens.
+  dekbed.
+  kussens
+  V grondzeil
+  V electrische
+  V pomp        handpomp
+  V luifelstokken
+  V stoelen
+  V tafel
+  V citronella kaarsen
+  V theelichtjes
+  V wasknijpers
+  V touw
+  V hamers
+  V verlengsnoer
+
 keuken
   snijmessen
   dunschiller
-  kaasschaaf
-  melkopschuimer
-  limonade
-  vaatwasblokjes
+  onderzetters
   vuilniszakken
-  afwasmiddel.
+  afwasmiddel
+  briketten
+  kaasschaaf
+  koelbox
   zonnebloemolie
+  bbq/kolen/aanmaakblokjes
   lucifers
-  theedoeken
-  vaatdoek
-  schuurspons
+  3 * theedoeken
+  2 * vaatdoek
+  2* schuurspons
   bekers kids
-  pastasaus
-  pasta
+  2 wijnglazen
   Koffie/filterzakjes
   thee
-  pastagroenten
   suiker
   koffie melk cups.
-  kruiden
+  koffiefilters
   thermosflessen
   Geraspte kaas
+  limonade
   komkommer
   wijn
   paprika
-  jam
-  hagelslag/vlokken
+  jam, chocopasta, hagelslag en stroop
   Vleeswaren/kaas
   Nootjes/chips
-  toiletpapier
-  touw
+  Bakjes
+  V kruiden
+  V bbq
+  V melkopschuimer
+  V snijplank
+  V opscheplepels
+  V pannen + waterkoker
+  V pannenhouder.
+  V borden
+  V bekers
+  V bestek
+  V blikopener
+  V flesopener
+  V garder
+  V pollepel
+  V vergiet
+  V afwasborstel
+  V afwasmiddel
+  V afwasteil
+  V hangmat
 
 vermaak
   Boeken
   ipad
-  opladers
-  spelletjes
   kaarten
-  memory
-  Lego/kapla
+  spelletjes
+  Lego/kapla ??
   ballen
+  muggenracket
+  Tekenspullen
+  speelgoed
+  slaapknuffels
+  emmer/schepjes
   zwemspullen
+  body boards
+V jeu de boules
+V klittenband spel
+V roeiboot
+V badminton rackets en shuttles
+V tafeltennis
+V snorkel
 
-Kleding/Schoenen
-  (thermo)ondergoed
-  skikleding
-  skisokken.
-  skischoenen.
-  handschoenen.
-  sjaals.
-  truien, vesten/laagjes kleding.
-  bergschoenen.
-  Handdoeken/washandjes
-  
+Schoenen
+  sandalen
+  bergschoenen
+  gewone schoenen
+
+gereedschap
+  schroevendraaiers
+  tang
+  ijzerdraad
+  steeksleutel
+  V waterpas
+
 verzorging
   zonnebrand
   aftersun
@@ -62,8 +112,10 @@ verzorging
   Reisziekte pilletjes
   toiletpapier
   muggenspul
+  Tekenpincet
   pil
-  handzeep
+  V handzeep
+  hooikoortspillen
   pleisters
   Jodium oid
   zakdoekjes
@@ -71,29 +123,57 @@ verzorging
   douche-schuim
   scheerspullen
   blarenpleisters
+  wasmiddel
   Thermometer
   zovirax
   Sinaspril
-  contactlenzen
 
-Onderweg
-  borden/snijplanken.
-  wegenkaarten	
-  opladers
+Onderweg (auto)
+  zonnebril
+  zonnebrand
+  wc papier.
   paspoorten
   creditcards
+  opladers
   snoep
+  paraplu
   Broodjes
-  Pakjes
-  drinken
+  Pakjes drinken
   water
+  
+Kleding
+  Badlakens
+  Handdoeken/washandjes
+  ondergoed
+  sokken
+  korte broek
+  rokjes
+  jurkjes
+  jassen
+  Truien/vesten
+  shirts
+  ondergoed
+  sokken
+  Lange broeken.
+
+Maks:
+  Brokken
+  Snoepjes
+  Vlees
+  Tekenpillen
+  Riemen
+  Poepzakjes
+  Slaapmatten
+  Botjes
+  Drink- en voerbak
+  Speelgoed
 
 Laatste dingen:
+  zonnebril
   planten watergeven
   Geld poets.
   afvalbak legen.
-  koffiezetapparaat legen,
-  laatste aankopen.
   toilettas.
   lichten controleren
   bolletjes/boterhammen uit koelkast.
+  
