@@ -21,6 +21,7 @@ tent
   kussens
 
 keuken
+  Maatbeker
   onderzetters
   V bbq
   melkopschuimer
@@ -104,6 +105,7 @@ gereedschap
   V waterpas
   
 verzorging
+  Anti klittenspray.
   zonnebrand
   aftersun
   Paracetamol
@@ -128,6 +130,7 @@ verzorging
 
 
 Onderweg (auto)
+  Thermosfles heet water
   zonnebrand
   wc papier.
   wegenkaarten	
