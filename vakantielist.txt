@@ -11,6 +11,7 @@ keuken
   lucifers
   theedoeken
   vaatdoek
+  kaas
   schuurspons
   bekers kids
   pastasaus
@@ -45,6 +46,7 @@ vermaak
   zwemspullen
 
 Kleding/Schoenen
+  nachtkleding
   (thermo)ondergoed
   skikleding
   skisokken.
@@ -57,11 +59,9 @@ Kleding/Schoenen
   
 verzorging
   zonnebrand
-  aftersun
   Paracetamol
   Reisziekte pilletjes
   toiletpapier
-  muggenspul
   pil
   handzeep
   pleisters
