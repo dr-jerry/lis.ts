@@ -1,6 +1,10 @@
 Nog kopen:
-  Nieuwe waterzak.
   Nieuwe afwasteil.
+  muggenkaarsen
+  wijnglazen
+  krukje
+  eten eerste avond
+  waterslang met spuit
   
 tent
   dekens
@@ -8,9 +12,10 @@ tent
   slaapzakken/luchtbed
   Lampen
   dweil (flappen reinigen)
-  (hoes)lakens.
+  (hoes)lakens(2)
   dekbed.
   kussens
+  waterflesjes.
   V grondzeil
   V electrische
   V pomp        handpomp
@@ -45,7 +50,7 @@ keuken
   thee
   suiker
   koffie melk cups.
-  koffiefilters
+  V koffiefilters
   thermosflessen
   Geraspte kaas
   limonade
@@ -172,6 +177,7 @@ Maks:
   Botjes
   Drink- en voerbak
   Speelgoed
+  muilkorf.
 
 Laatste dingen:
   zonnebril
@@ -181,4 +187,10 @@ Laatste dingen:
   toilettas.
   lichten controleren
   bolletjes/boterhammen uit koelkast.
-  
+
+
+Problemen:
+  Allergische reacties.
+  val van krukje
+  val met vaat.
+  Slecht slapen.
